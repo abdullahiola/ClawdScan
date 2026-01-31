@@ -13,7 +13,7 @@ export function Hero() {
         </div>
         <div className="mb-6 flex justify-center">
           <Image
-            src="/clawdbot.png"
+            src="/crabb.png"
             alt="ClawdScan Logo"
             width={300}
             height={300}
@@ -24,7 +24,7 @@ export function Hero() {
         </div>
         <p className="text-xl text-muted-foreground mb-8 text-balance">
           Stop getting rekt by tokens with more red flags than a
-          communist parade. Clawdescan analyzes contracts and tells you
+          communist parade. Clawdscan analyzes contracts and tells you
           exactly how bad your taste in coins really is.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
